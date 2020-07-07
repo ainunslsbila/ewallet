@@ -23,3 +23,5 @@ m. insert.php : untuk memproses data yang diinput agar masuk ke database
 4. Setelah login, terdapat 3 menu yaitu Go to Mini E-Wallet, Topup Balance dan Logout.
 5. Go to Mini E-Wallet berisi data-data yang telah diinput. Terdapat pilihan Edit apabila ingin merubah isi data, dan terdapat pilihan Delete apabila ingin menghapus data. Data ini sudah otomatis masuk ke database. Dan apabila diDelete, juga otomatis akan terhapus dari database.
 6. Apabila ingin topup balance, maka klik Topup Balance. Disana terdapat Balance sebelumnya dan kita dapat menambah balancenya dengan mengisikan di bagian topup. Dan secara otomatis jumlah balance akan bertambah di bagian balance_achieve.
+
+- ewallet.php berisi database dari ewallet
